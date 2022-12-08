@@ -6,7 +6,9 @@ Simple  body mass index calculator slide  your height and weight to get  body ma
 
 Depends on  your index. if its green you good , if its red  you need to hit gym  or if its blue  you need to eat more pizza !
 
-Worked with Image Sliders , UIKit , Segues, View Controller and  MVC architecture.
+The reason of this app is I want to work and learn  UISlider , and it worked well .
+
+Worked with UISliders , UIKit , Segues, View Controller and  MVC architecture.
 
 video attached down below .
 
