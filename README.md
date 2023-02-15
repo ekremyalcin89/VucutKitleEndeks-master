@@ -4,13 +4,17 @@ In this App,
 
 Simple  body mass index calculator slide  your height and weight to get  body mass index .
 
-Depends on  your index. if its green you good , if its red  you need to hit gym  or if its blue  you need to eat more pizza !
+Depends on  your index. if its green screen means you good , if its red , means  you need to hit gym  or if its blue means you need to eat more !
 
-The reason of this app is I want to work and learn  UISlider , and it worked well .
+Made with,
 
-Worked with UISliders , UIKit , Segues, View Controller and  MVC architecture.
+* UIKit
+* UISlider
+* Segues
+* MVC Architecture
 
-video attached down below .
+
+Display video attached down below .
 
 Cheers ! 
 
